@@ -19,14 +19,10 @@ useEffect(()=>{
 
   return (
     <>
-
-
         <div className='container'>
 <h1>{datas?.quotes[random].quote}</h1>
 <button onClick={getApi} className='btn btn-lg btn-primary mx-auto'>Generate Quote</button>
 </div>
-
-  
   </>
   )
 }

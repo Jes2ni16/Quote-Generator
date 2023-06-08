@@ -30,6 +30,7 @@ button{
  background-color: #0496ff;
  font-size: 15px;
  font-weight:bold;
+ cursor: pointer;
 }
 h1{
     margin-bottom: 10%;
